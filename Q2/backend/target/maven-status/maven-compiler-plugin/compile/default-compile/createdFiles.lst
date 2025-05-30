@@ -1,0 +1,9 @@
+com\enterprise\todo\repository\TaskRepository.class
+com\enterprise\todo\service\TaskService.class
+com\enterprise\todo\model\Task.class
+com\enterprise\todo\config\WebConfig.class
+com\enterprise\todo\model\Priority.class
+com\enterprise\todo\TodoApplication.class
+com\enterprise\todo\service\TaskParserService.class
+com\enterprise\todo\controller\TaskController.class
+com\enterprise\todo\dto\TaskParseRequest.class
