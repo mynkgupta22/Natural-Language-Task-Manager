@@ -11,6 +11,13 @@ An enterprise-grade task management system that uses natural language processing
 - PostgreSQL backend for data persistence
 - RESTful API endpoints
 
+## Screenshorts
+
+<img src = "./screenshorts/Screenshot 2025-05-30 222902.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 223103.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 223005.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 223024.png"/>
+
 ## Tech Stack
 
 ### Frontend
