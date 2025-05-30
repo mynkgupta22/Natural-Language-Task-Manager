@@ -10,6 +10,14 @@ An enterprise-grade to-do list application that allows users to create tasks usi
 - PostgreSQL database for persistent storage
 - Modern React frontend (coming soon)
 
+## Screenshorts
+
+<img src = "./screenshorts/Screenshot 2025-05-30 222902.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 222929.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 223005.png"/>
+<img src = "./screenshorts/Screenshot 2025-05-30 223024.png"/>
+
+
 ## Prerequisites
 
 - Java 17 or higher
